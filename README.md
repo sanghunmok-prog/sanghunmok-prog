@@ -4,7 +4,7 @@ Hi, I'm Sanghun — a **Full-Stack .NET Developer** with **2+ years of enterpris
 
 I build database-backed web applications, workflow systems, internal tools, and API integrations. My strongest fit is full-stack application development involving REST APIs, relational data models, Angular forms/components, and enterprise-style workflows.
 
-[LinkedIn](https://www.linkedin.com/in/sanghun-mok-18b8292ba/) · [Email](sanghunmok@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanghunmok/) · [Email](sanghunmok@gmail.com)
 
 
 ## Featured Projects
